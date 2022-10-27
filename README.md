@@ -25,3 +25,4 @@ https://user-images.githubusercontent.com/48603868/198397722-7282e962-7ccc-45b3-
 
 Resource: https://mashable.com/article/wordle-word-game-what-is-it-explained
 
+Icons are taken from Stewart Lynch: https://github.com/StewartLynch
